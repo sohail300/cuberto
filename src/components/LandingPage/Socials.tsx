@@ -92,7 +92,7 @@ const Socials = () => {
             Alexandria VA, 22314
           </TextAnimate>
           <Button
-            className="border-1 border-white rounded-4xl w-fit text-white font-light-regular text-3xl md:text-2xl mt-8 hover:invert"
+            className="border-1 border-white rounded-4xl w-fit text-white font-light-regular text-2xl md:text-2xl mt-8 hover:invert"
             padding="pt-4 pb-2 md:py-2 px-6 md:px-4 uppercase"
           >
             Info@cuberto.com
